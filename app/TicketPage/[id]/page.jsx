@@ -1,5 +1,7 @@
-const TicketPage = ({ params }) => {
-  return <div>TicketPage {params.id}</div>;
+import React from "react";
+
+const page = () => {
+  return <div>page</div>;
 };
 
-export default TicketPage;
+export default page;
